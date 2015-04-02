@@ -12,6 +12,7 @@ is to provide similar coding styles across multiple languages and platforms.
 
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#airbnb-javascript-style-guide-)
 * [JSHint](http://jshint.com) with [.jshintrc](https://github.com/airbnb/javascript/blob/master/linters/jshintrc)
+* [ESLint](http://eslint.org) with [.eslintrc](https://github.com/airbnb/javascript/blob/master/linters/eslintrc)
 
 ## Lua
 
