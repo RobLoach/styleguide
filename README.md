@@ -17,6 +17,7 @@ is to provide similar coding styles across multiple languages and platforms.
 ## Lua
 
 * [Olivine Labs Lua Style Guide](https://github.com/Olivine-Labs/lua-style-guide)
+* [Luacheck](https://github.com/mpeterv/luacheck)
 
 ## PHP
 
